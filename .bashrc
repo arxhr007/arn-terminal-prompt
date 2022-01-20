@@ -1,5 +1,5 @@
 VAR25=$(date +%H)
-if [[ $VAR25 -gt 19 ]] || [[ $VAR25 -lt 6 ]]
+if [[ $VAR25 -gt 17 ]] || [[ $VAR25 -lt 6 ]]
 then
   TI=" \e[0;36m☾\e[m"
 else
