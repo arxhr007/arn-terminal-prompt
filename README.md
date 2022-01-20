@@ -1,5 +1,6 @@
 # arn-terminal-prompt
 my terminal prompt
+<br>
 To install:
 <br>
 open terminal and type:
@@ -8,5 +9,6 @@ open terminal and type:
   cd arn-terminal-prompt
 <br>
   bash install.sh
+  <br>
 done!
 
