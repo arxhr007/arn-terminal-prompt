@@ -4,6 +4,7 @@ my terminal prompt
 To install:
 <br>
 open terminal and type:
+<br>
   git clone https://github.com/BLINKING-IDIOT/arn-terminal-prompt
 <br>
   cd arn-terminal-prompt
