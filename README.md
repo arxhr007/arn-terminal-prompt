@@ -8,11 +8,9 @@ open terminal and type:
 ```shell script
   git clone https://github.com/BLINKING-IDIOT/arn-terminal-prompt
 ```
-<br>
 ```shell script
   cd arn-terminal-prompt
 ```
-<br>
 ```shell script
   bash install.sh
 ```
